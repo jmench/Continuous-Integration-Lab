@@ -1,0 +1,1 @@
+{"uuid":"125504bb-9c0e-4796-af4f-f387406f5c96","parent":null,"pid":6843,"argv":["/usr/local/bin/node","/usr/local/bin/npm","run","test"],"execArgv":[],"cwd":"/Users/jmench/dev/cs498","time":1574368858822,"ppid":6842,"root":"d1da611e-76bc-4d47-a65c-ce5285ba429b","coverageFilename":"/Users/jmench/dev/cs498/.nyc_output/125504bb-9c0e-4796-af4f-f387406f5c96.json","files":[]}

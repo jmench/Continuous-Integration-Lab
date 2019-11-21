@@ -5,7 +5,8 @@
   "main": "src/main/app.js",
   "scripts": {
     "start": "node src/main/app.js",
-    "test": "node ./node_modules/mocha/bin/mocha --exit \"src/test/cases/**/*.js\""
+    "test": "node ./node_modules/mocha/bin/mocha --exit \"src/test/cases/**/*.js\"",
+    "coverage": "nyc npm run test"
   },
   "author": "",
   "license": "ISC",
